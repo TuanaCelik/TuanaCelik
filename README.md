@@ -1,5 +1,6 @@
 <p align="center">
   <img height="100" src="https://user-images.githubusercontent.com/15802862/220481971-ce7feeef-d5a3-4916-b8c3-feaf094e489f.png">
+  <!-- This is an .apng file whose name has been manually changed to work on GH -->
 </p>
 
 <h2 align="center">
