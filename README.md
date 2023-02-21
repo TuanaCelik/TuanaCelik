@@ -12,10 +12,10 @@ This octopus is also the only thing that features on my website <a href="https:/
 
 I'm a Developer Advocate from Istanbul, currently based in Amsterdam and working at [deepset](https://github.com/deepeset-ai). I work on [Haystack](https://haystack.deepset.ai) which is our open-source NLP framework, and spend most of my day dwelling on our community Discord or public repositories..
 
-- 🎓 Studied Computer Science at the University of Bristol
-- 💻 Started off as a software engineer, now I ❤️ devrel
-- ☀️ I prefer the sun...always
-- 🧠 Always learning more about NLP
+🎓 Studied Computer Science at the University of Bristol  
+💻 Started off as a software engineer, now I 🥑  
+☀️ I prefer the sun...always  
+🧠 Always learning more about NLP
 
 ## 💜 Let's Connect!
 <a href="https://twitter.com/tuanacelik" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
