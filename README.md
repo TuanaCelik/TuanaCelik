@@ -7,7 +7,7 @@ Hey 👋 I'm Tuana, I like NLP and I made this cute octopus sticker 👆
 </h2>
 
 <h6 align="center" style="font-size:50%;">
-This octopus is also the only thing that features on my website <a href="https://tuana.dev">tuana.dev</a>. Enjoy!!
+This octopus is also the only thing that features on my website <a href="https://tuana.dev">tuana.dev</a> Enjoy!!
 </h6>
 
 I'm a Developer Advocate from Istanbul, currently based in Amsterdam and working at [deepset](https://github.com/deepeset-ai). I work on [Haystack](https://haystack.deepset.ai)
