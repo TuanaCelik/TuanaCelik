@@ -11,12 +11,11 @@ Hey 👋 I'm Tuana, I like NLP and I made these cute octopus stickers 🐙
 You can go find out which octopus is my favourite at <a href="https://tuana.dev">tuana.dev</a>...which <em>only</em> features that. Enjoy!!
 </h6>
 
-I'm a Developer Advocate from Istanbul, currently based in Amsterdam and working at [deepset](https://github.com/deepeset-ai). I work on [Haystack](https://haystack.deepset.ai) which is our open-source NLP framework, and spend most of my day dwelling on our community Discord or public repositories..
+I'm a Developer Advocate from Istanbul, currently based in Amsterdam and working at [deepset](https://github.com/deepeset-ai). I work on [Haystack](https://haystack.deepset.ai) which is our open-source framework to build applications with LLMs, and spend most of my day dwelling on our community Discord or public repositories..
 
 🎓 Studied Computer Science at the University of Bristol  
-💻 Started off as a software engineer, now I 🥑  
+🥑 Started off as a software engineer, now I am in developer relations for open-source projects    
 ☀️ I prefer the sun...always  
-🧠 Always learning more about NLP
 
 ## 🤗 Let's Connect!
 <a href="https://twitter.com/tuanacelik" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
