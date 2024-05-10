@@ -7,9 +7,9 @@
 Hey 👋 I'm Tuana, I like NLP and I made these cute octopus stickers 🐙
 </h2>
 
-<h6 align="center">
-You can go find out which octopus is my favourite at <a href="https://tuana.dev">tuana.dev</a>...which <em>only</em> features that. Enjoy!!
-</h6>
+<h4 align="center">
+<a href="https://tuana.dev">tuana.dev</a>
+</h4>
 
 I'm a Developer Advocate from Istanbul, currently based in Amsterdam and working at [deepset](https://github.com/deepeset-ai). I work on [Haystack](https://haystack.deepset.ai) which is our open-source framework to build applications with LLMs, and spend most of my day dwelling on our community Discord or public repositories..
 
