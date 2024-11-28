@@ -11,7 +11,7 @@ Hey 👋 I'm Tuana, I like NLP and I made these cute octopus stickers 🐙
 <a href="https://tuana.dev">tuana.dev</a>
 </h4>
 
-I'm a Developer Advocate from Istanbul, currently based in Amsterdam and working at [deepset](https://github.com/deepeset-ai). I work on [Haystack](https://haystack.deepset.ai) which is our open-source framework to build applications with LLMs, and spend most of my day dwelling on our community Discord or public repositories..
+I'm a Developer Relations & AI Engineer from Istanbul, currently based in Amsterdam and working at [Weaviate](https://weaviate.io). Previously I worked on [Haystack](https://haystack.deepset.ai) which is an open-source framework to build applications with LLMs, where I set up the community, helped release Haystack 2.0 etc.
 
 🎓 Studied Computer Science at the University of Bristol  
 🥑 Started off as a software engineer, now I am in developer relations for open-source projects    
