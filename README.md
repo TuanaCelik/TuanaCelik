@@ -4,14 +4,14 @@
 </p>
 
 <h2 align="center">
-Hey 👋 I'm Tuana, I like NLP and I made these cute octopus stickers 🐙
+Hey 👋 I'm Tuana, I like amything agentic AI and I made these cute octopus stickers 🐙
 </h2>
 
 <h4 align="center">
 <a href="https://tuana.dev">tuana.dev</a>
 </h4>
 
-I'm a Developer Relations & AI Engineer from Istanbul, currently based in Amsterdam and working at [LlamaIndex](https://www.llamaindex.ai/). Previously I've worked at [Weaviate](https://weaviate.io), a vector database and [Haystack](https://haystack.deepset.ai) (by deepset) which is an open-source framework to build applications with LLMs, where I set up the community, helped release Haystack 2.0 etc.
+I'm a Developer Relations Lead & AI Engineer from Istanbul, currently based in Amsterdam and working at [Prior Labs](https://priorlabs.ai). Previously I've worked at [LlamaIndex](https://www.llamaindex.ai/) and [Weaviate](https://weaviate.io). I started off at [Haystack](https://haystack.deepset.ai) (by deepset) which is an open-source framework to build applications with LLMs, where I set up the community, helped release Haystack 2.0 etc.
 
 🎓 Studied Computer Science at the University of Bristol  
 🥑 Started off as a software engineer, now I am in developer relations for open-source projects    
